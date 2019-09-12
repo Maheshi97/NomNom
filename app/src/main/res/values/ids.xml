@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_name" type="id">editName</item>
+    <item name="editText_address" type="id">editAddress</item>
+    <item name="editText_quantity" type="id">editQuantity</item>
+    <item name="button_add" type="id">button_add</item>
+</resources>

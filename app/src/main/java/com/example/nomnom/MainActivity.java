@@ -11,10 +11,13 @@ public class MainActivity extends AppCompatActivity {
     private Button login;
     private Button register;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
 
         login = (Button) findViewById(R.id.login);
         login.setOnClickListener(new View.OnClickListener() {
